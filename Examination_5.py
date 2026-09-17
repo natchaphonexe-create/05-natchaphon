@@ -7,4 +7,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-hour = int(input())
+our = int(input("กรอกเวลา"))
+if hour < 12
+   print ("Morning")
+elif hour <= 12
+   print ("afternoon")
+else hour < 18 
+   print ("Night")
